@@ -68,7 +68,7 @@
 .modal-header {
   position: relative;
   min-height: 64px;
-  border-bottom: 1px solid #ebebeb;
+  border-bottom: 1px solid var(--bg-hover);
   padding-top: 0;
   padding-bottom: 0;
   padding-left: 24px;
