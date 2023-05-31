@@ -359,7 +359,7 @@ h3 {
 /* footer */
 .footer {
   padding: 22px 0;
-  background-color: #f7f7f7;
+  background-color: var(--footer-bg);
   position: absolute;
   bottom: 0;
   left: 0;
@@ -387,7 +387,7 @@ h3 {
 }
 
 .footer-top__column h3 {
-  color: #222222;
+  color: var(--footer-link-color);
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 24px;
@@ -395,7 +395,7 @@ h3 {
 }
 
 .footer-link {
-  color: #222222;
+  color: var(--footer-link-color);
   font-weight: 400;
   font-size: 14px;
   line-height: 36px;
